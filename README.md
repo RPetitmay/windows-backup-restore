@@ -89,10 +89,22 @@ This tutorial outlines the configuration and validation of backup and recovery f
 <h2>Screenshots</h2>
 <ul>
   <li>Azure VM overview</li>
+  <p>
+<img src="" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
   <li>Recovery Services Vault configuration</li>
+  <p>
+<img src="https://i.imgur.com/1HCgbw6.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
   <li>Backup job completion</li>
+  <p>
+<img src="https://i.imgur.com/1HCgbw6.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
   <li>Deleted resource confirmation</li>
   <li>Successful restore verification</li>
+  <p>
+<img src="https://i.imgur.com/1HCgbw6.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
 </ul>
 
 
